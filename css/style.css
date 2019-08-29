@@ -1,0 +1,26 @@
+body {
+    font-family:Rubik,Lato,lucida grande,lucida sans unicode,Tahoma,Sans-Serif;
+    margin:0;
+}
+header {
+    color:white;
+}
+h1 {
+    font-weight: 900;
+    font-size: 4em;
+    color:white;
+}
+.black-to-white {
+    background: linear-gradient(black 5%, white 95%);
+    height:1000px;
+    padding-left: 4em;
+    padding-right: 4em;
+}
+.white-to-black {
+    background: linear-gradient(white 5%, black 95%);
+    height:1000px;
+    padding-left: 4em;
+    padding-right: 4em;
+}
+
+
